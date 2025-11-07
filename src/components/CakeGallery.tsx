@@ -4,7 +4,7 @@ const IMAGES = [
   "https://images.pexels.com/photos/1721934/pexels-photo-1721934.jpeg?auto=compress&cs=tinysrgb&w=800",
   "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&w=800",
   "https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg?auto=compress&cs=tinysrgb&w=800",
-  "src/components/Cake-4.jpg",
+  "/images/cake4.jpg",
 
 ];
 
