@@ -92,7 +92,7 @@ function App() {
             </div>
             <div className="cake-card cake-4 animate-float-delay-3">
               <img
-                src="Cake-4.jpg"
+                src="cake-4.jpg"
                 alt="Cupcakes"
                 className="rounded-lg xs:rounded-xl sm:rounded-2xl shadow-lg xs:shadow-xl sm:shadow-2xl object-cover w-full h-full"
               />
