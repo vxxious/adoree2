@@ -1,6 +1,7 @@
 import { Instagram, MessageCircle, ChevronRight, Menu, X, ArrowLeft } from 'lucide-react';
 import { useState } from 'react';
-import CakeGallery from "./components/cakeGallery";
+import CakeGallery from "./Components/cakeGallery";
+
 
 function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
